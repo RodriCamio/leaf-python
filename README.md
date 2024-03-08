@@ -1,3 +1,4 @@
+[![Python application](https://github.com/RodriCamio/leaf-python/actions/workflows/python-app.yml/badge.svg)](https://github.com/RodriCamio/leaf-python/actions/workflows/python-app.yml)
 
 # Desafíos Técnicos
 
